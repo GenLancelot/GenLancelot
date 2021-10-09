@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GenLancelot(Konrad)
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning UnrealEngine
+- 🌱 I’m currently learning UnrealEngine and I am making my own game with it
 - 📫 How to reach me? LinkedIn https://pl.linkedin.com/in/konrad-stolarz-592114161?trk=people_directory
 
 <!---
